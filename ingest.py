@@ -40,7 +40,7 @@ def ingest_file(file_path):
     # Parse File
     text_splitter = RecursiveCharacterTextSplitter(chunk_size = CHUNK_SIZE,
                                                    chunk_overlap = CHUNK_OVERLAP,
-                                                   separators= ['\n', " ", ""])
+                                                   separators= ["\n", " ", ""])
 
     documents = text_splitter.split_documents(loaded_docs)
     uuids = [str(uuid4()) for _ in range(len(documents))]
