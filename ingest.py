@@ -7,13 +7,15 @@ from langchain_chroma  import Chroma as CDb
 from models import Models
 from uuid import uuid4
 
-# Initialize the models
+# Initialize an Embedding and LLM model
 models = Models()
 embeddings  = models.embeddings_ollama
 llm = models.model_ollama
 
-# Define constants
-knowledge_base = "./knowledge_base"  # TODO: Add relevant textbook to vector store
+# The storage location of ".csv" files that LLM will utilize for user queries
+knowledge_base = "./knowledge_base" 
+
+# Define hyperparameters
 CHUNK_SIZE = 1000
 CHUNK_OVERLAP = 50
 CHECK_INTERVAL = 10
@@ -30,7 +32,7 @@ def ingest_file(file_path):
     a vector database.
     '''
     print(f'Ingesting: {file_path}')
-    loader =  CSVLoader(file_path)
+    loader = CSVLoader(file_path)
     
     # Load and extract text from file
     loaded_docs =  loader.load()
