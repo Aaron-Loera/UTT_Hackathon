@@ -1,5 +1,8 @@
 import requests 
 from bs4 import BeautifulSoup 
+import re
+
+
 
 #rate my professor list of profs from uttyler 
 url = "https://www.ratemyprofessors.com/search/professors/4171?q=*"
@@ -13,27 +16,23 @@ headers = {
 page = requests.get(url, headers=headers)
 soup = BeautifulSoup(page.text, "html.parser")
 
-# get ratings
-# need to seperate because the bad and good ratings have diff class 
-goodRatings = soup.find_all("div", {"class": "CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 ERCLc"})
-badRatings = soup.find_all("div", {"class": "CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 cmIXQn"})
-# combine both ratings
-ratings = goodRatings + badRatings
-# cast to floats 
-ratings = [float(x.text) for x in ratings]
+#each profs tuple from url
+cards = soup.find_all("div", class_="TeacherCard__InfoRatingWrapper-syjs0d-3 kAxNBg")
 
-#get names 
-names = soup.find_all("div", {"class": "CardName__StyledCardName-sc-1gyrgim-0 gGdQEj"})
-#cast to strings 
-names = [str(x.text) for x in names]
+#new list
+data = []
 
-
-
-#print ratings
-for e in ratings:
-    print(e)
+for card in cards:
+    # get names 
+    name_tag = card.find("div", class_="CardName__StyledCardName-sc-1gyrgim-0 gGdQEj")
+    name = name_tag.text.strip() if name_tag else "No Name"
     
-#print names 
-for e in names:
-    print(e)
+    # Get the rating (good or bad)
+    rating_tag = card.find("div", class_=re.compile("CardNumRating__CardNumRatingNumber"))
+    rating = float(rating_tag.text.strip()) if rating_tag else None
+
+    data.append((name, rating))
+
+for name, rating in data:
+    print(f"{name}: {rating}")
 
