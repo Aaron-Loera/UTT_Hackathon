@@ -17,7 +17,7 @@ knowledge_base = "./knowledge_base"
 
 # Define hyperparameters
 CHUNK_SIZE = 1000
-CHUNK_OVERLAP = 50
+CHUNK_OVERLAP = 200
 CHECK_INTERVAL = 10
 
 # Chroma vector store
