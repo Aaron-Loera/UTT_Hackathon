@@ -1,10 +1,10 @@
 import os
 import time
 from dotenv import load_dotenv
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import CSVLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma  import Chroma as CDb
-from models import Models
+from models import Models # user-made
 from uuid import uuid4
 
 # Initialize the models
@@ -14,23 +14,24 @@ llm = models.model_ollama
 
 # Define cnstants
 knowledge_base = "./knowledge_base"  # TODO: Add relevant textbook to vecor store
-CHUNK_SIZE = 1000
-CHUNK_OVERLAP = 50
-CHECK_INTERVAL =  10
+CHUNK_SIZE = 1000 # This is how long each 'chunk' will be
+CHUNK_OVERLAP = 200 # Context each 'chunk' will have from the last
+CHECK_INTERVAL =  10 # Check every period
 
 # Chroma vector store
-vector_store = CDb(
-    collection_name = "documents",
-    embedding_function = embeddings,
-    # Storing vector space locally
-    persist_directory = "./db/chroma_langchain_db",
-)
+vector_store = CDb(collection_name = "documents",
+                   embedding_function = embeddings,
+                   persist_directory = "./db/chroma_langchain_db") # Storing vector space locally
 
-#Ingest file, load and split file
-def  ingest_file(file_path):
+# Ingest file, load and split file
+def ingest_file(file_path):
+    '''
+    Processes file from inputted file path, extracts its content, chunks the data, and stores it
+    a vector database.
+    '''
     print(f'Ingesting: {file_path}')
-    loader =  PyPDFLoader(file_path)
-    loaded_docs =  loader.load() # Load and extract text from file
+    loader =  CSVLoader(file_path)
+    loaded_docs =  loader.load()
     text_splitter = RecursiveCharacterTextSplitter(  # Parse file
         chunk_size = CHUNK_SIZE, chunk_overlap = CHUNK_OVERLAP,
         separators= ['\n', " ", ""]
@@ -39,7 +40,9 @@ def  ingest_file(file_path):
     documents = text_splitter.split_documents(loaded_docs)
     uuids = [str(uuid4()) for _ in range(len(documents))]
     print(f'Adding {len(documents)} chunks to vector space')
-    vector_store.add_documents(documents=documents, ids=uuids) # Add chunks to CDb
+    
+    # Add chunks to CDb
+    vector_store.add_documents(documents=documents, ids=uuids)
     print(f'Ingested: {file_path}')
 
 
