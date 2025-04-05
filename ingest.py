@@ -1,7 +1,7 @@
 import os
 import time
 from dotenv import load_dotenv
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import CSVLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma  import Chroma as CDb
 from models import Models
@@ -30,7 +30,7 @@ def ingest_file(file_path):
     a vector database.
     '''
     print(f'Ingesting: {file_path}')
-    loader =  PyPDFLoader(file_path)
+    loader =  CSVLoader(file_path)
     
     # Load and extract text from file
     loaded_docs =  loader.load()
