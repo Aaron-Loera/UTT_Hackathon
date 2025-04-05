@@ -13,18 +13,27 @@ headers = {
 page = requests.get(url, headers=headers)
 soup = BeautifulSoup(page.text, "html.parser")
 
+# get ratings
 # need to seperate because the bad and good ratings have diff class 
 goodRatings = soup.find_all("div", {"class": "CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 ERCLc"})
 badRatings = soup.find_all("div", {"class": "CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 cmIXQn"})
-
 # combine both ratings
-Ratings = goodRatings + badRatings
-for e in Ratings:
-    print(e)
-
+ratings = goodRatings + badRatings
 # cast to floats 
-Ratings = [float(x.text) for x in Ratings]
-for e in Ratings:
+ratings = [float(x.text) for x in ratings]
+
+#get names 
+names = soup.find_all("div", {"class": "CardName__StyledCardName-sc-1gyrgim-0 gGdQEj"})
+#cast to strings 
+names = [str(x.text) for x in names]
+
+
+
+#print ratings
+for e in ratings:
     print(e)
-  
+    
+#print names 
+for e in names:
+    print(e)
 
