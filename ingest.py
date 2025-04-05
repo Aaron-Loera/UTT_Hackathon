@@ -16,8 +16,8 @@ llm = models.model_ollama
 knowledge_base = "./knowledge_base" 
 
 # Define hyperparameters
-CHUNK_SIZE = 1000
-CHUNK_OVERLAP = 200
+CHUNK_SIZE = 30
+CHUNK_OVERLAP = 5
 CHECK_INTERVAL = 10
 
 # Chroma vector store

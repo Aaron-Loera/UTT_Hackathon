@@ -25,10 +25,9 @@ prompt = ChatPromptTemplate.from_messages([("system", "You are a knowledgable an
 
 # Define the retrieval chain
 # Retriever from our vector store. To find and retrieve relevent docs
-retriever = vector_store.as_retriever(search_kwargs={"k":5}) # 10 most relevant docs
+retriever = vector_store.as_retriever(search_type="similarity_score_threshold", search_kwargs={"score_threshold": 0.5,"k":3}) # 5 most relevant docs
 combine_docs_chain = create_stuff_documents_chain(llm, prompt)
 retrieval_chain = create_retrieval_chain(retriever, combine_docs_chain)
-
 
 # Main loop
 def main():
