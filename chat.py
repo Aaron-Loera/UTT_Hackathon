@@ -19,10 +19,9 @@ vector_store  = CDb(
 # Template used to guide esponse
 prompt = ChatPromptTemplate.from_messages(
     [
-        (("system", "You are a helfpful college advisor. Answer the questions based on data provided."),
-        ("human", "Use the user input {input} to answer question. Use {context} to answer question."))
-    ]
-)
+        ("system", "You are a helfpful college advisor. Answer the questions based on data provided."),
+        ("human", "Use the user input {input} to answer question. Use {context} to answer question.")
+    ])
 
 # Define the retrieval chain
 # Retriver from our vector store. To find and retrieve relevent docs
