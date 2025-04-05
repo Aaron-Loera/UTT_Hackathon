@@ -35,7 +35,7 @@ retrieval_chain = create_retrieval_chain(retriever, combine_docs_chain)
 # Main loop
 def main():
     while True:
-        query = input("'q' or 'quit to end: ")
+        query = input("Assistant: Ask anything ('q' or 'quit to end) ")
         if query.lower() in ['q', 'quit']:
             break
         result = retrieval_chain.invoke({"input": query})
