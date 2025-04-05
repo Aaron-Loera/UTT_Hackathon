@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma  import Chroma as CDb
-from models import Models # user-made
+from models import Models
 from uuid import uuid4
 
 # Initialize the models
