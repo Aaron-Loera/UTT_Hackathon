@@ -1,7 +1,7 @@
 import os
 import time
 from dotenv import load_dotenv
-from langchain_community.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import CSVLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma  import Chroma as CDb
 from models import Models # user-made
@@ -12,11 +12,11 @@ models = Models()
 embeddings  = models.embeddings_ollama
 llm = models.model_ollama
 
-# Define constants
-knowledge_base = "./knowledge_base"  # TODO: Add relevant textbook to vector store
-CHUNK_SIZE = 1000
-CHUNK_OVERLAP = 50
-CHECK_INTERVAL = 10
+# Define cnstants
+knowledge_base = "./knowledge_base"  # TODO: Add relevant textbook to vecor store
+CHUNK_SIZE = 1000 # This is how long each 'chunk' will be
+CHUNK_OVERLAP = 50 # Context each 'chunk' will have from the last
+CHECK_INTERVAL =  10 # Check every period
 
 # Chroma vector store
 vector_store = CDb(collection_name = "documents",
@@ -30,15 +30,12 @@ def ingest_file(file_path):
     a vector database.
     '''
     print(f'Ingesting: {file_path}')
-    loader =  PyPDFLoader(file_path)
-    
-    # Load and extract text from file
+    loader =  CSVLoader(file_path)
     loaded_docs =  loader.load()
-    
-    # Parse File
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size = CHUNK_SIZE,
-                                                   chunk_overlap = CHUNK_OVERLAP,
-                                                   separators= ['\n', " ", ""])
+    text_splitter = RecursiveCharacterTextSplitter(  # Parse file
+        chunk_size = CHUNK_SIZE, chunk_overlap = CHUNK_OVERLAP,
+        separators= ['\n', " ", ""]
+    )
 
     documents = text_splitter.split_documents(loaded_docs)
     uuids = [str(uuid4()) for _ in range(len(documents))]
