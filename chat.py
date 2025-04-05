@@ -23,6 +23,7 @@ prompt = ChatPromptTemplate.from_messages(
         ("human", "Use the user input {input} to answer question. Use {context} to answer question.")
     ])
 
+
 # Define the retrieval chain
 # Retriver from our vector store. To find and retrieve relevent docs
 retriever = vector_store.as_retriever(kwargs={"k":10}) # 10 most relevant docs

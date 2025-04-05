@@ -12,6 +12,10 @@ class Models:
         #     model = 'snowflake-arctic-embed:22m',
         # )
 
+
         self.model_ollama = ChatOllama(
-            model =  'llama2:latest'
+            model = 'gemma3:4b'
         )
+        # self.model_ollama = ChatOllama(
+        #     model =  'llama2:latest'
+        # )
