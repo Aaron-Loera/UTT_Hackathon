@@ -15,7 +15,7 @@ llm = models.model_ollama
 # Define cnstants
 knowledge_base = "./knowledge_base"  # TODO: Add relevant textbook to vecor store
 CHUNK_SIZE = 1000 # This is how long each 'chunk' will be
-CHUNK_OVERLAP = 50 # Context each 'chunk' will have from the last
+CHUNK_OVERLAP = 200 # Context each 'chunk' will have from the last
 CHECK_INTERVAL =  10 # Check every period
 
 # Chroma vector store
