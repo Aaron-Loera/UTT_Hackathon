@@ -1,9 +1,731 @@
 Name,Rating,Department,Num Ratings,Retake %,Difficulty
-Richard Batman,4.0,Physics,28 ratings,75%,2.7
-Jie Zeng,5.0,Mathematics,4 ratings,100%,2.5
+Arturo Arce-Esquivel,1.5,Health Science,13 ratings,16%,4.5
+David Strong,2.9,English,160 ratings,17%,4.3
+Kerri Camp,4.7,Marketing,23 ratings,96%,2.4
+Jill Carter,2.7,History,58 ratings,44%,3.7
+Kenan Hazirbaba,4.2,Engineering,10 ratings,80%,3.2
+Linda Raymond,5.0,Nursing,17 ratings,100%,2.7
+Diane Smedley,5.0,Psychology,1 ratings,100%,4
+Jennifer Hicks,4.7,Management,20 ratings,94%,2.4
+Dr. William Blair,5.0,Mathematics,3 ratings,100%,2.3
+Harold Doty,2.1,Business,11 ratings,28%,3.8
+Sean Butler,4.2,Chemistry,19 ratings,84%,3.7
+Robin Ragland,3.1,Mathematics,11 ratings,46%,3.9
+Jessica Coleman,4.4,Biology,82 ratings,95%,2.9
+Rachel Mason,4.3,Chemistry,27 ratings,91%,3.2
+Joseph Vandehey,4.0,Mathematics,12 ratings,75%,3.5
+Joanna  Matuszak,1.9,Art History,9 ratings,23%,3.8
+Judy Sun,2.7,Management,18 ratings,31%,2.8
+Rochelle McWhorter,3.3,Technology,16 ratings,63%,2.4
+Sangok Yoo,3.8,Business,4 ratings,75%,2.5
+Kevin White,5.0,Business,2 ratings,100%,2.5
+David Brake,4.4,Biology,28 ratings,79%,3.7
+Lance Williams,4.0,Biology,14 ratings,84%,2.6
+Miguel Caldas,3.7,Business,52 ratings,66%,4.1
+Jie Zeng,4.7,Mathematics,6 ratings,84%,2.8
+Chung Goh,3.2,Engineering,5 ratings,60%,4.2
+Cynthia Sherman,2.5,Education,4 ratings,34%,4.8
+Nelson Fumo,2.3,Engineering,24 ratings,34%,4.6
+Stephanie Daugherty,4.8,Biology,52 ratings,98%,2.5
+Chris Chappa,4.7,Mathematics,50 ratings,100%,2.3
+Cortney Charba- Lynn,4.3,Biology,20 ratings,85%,3.5
+Anthony  Lawson,4.7,Psychology,11 ratings,100%,1.6
+Michael Ward,4.5,Fine Arts,11 ratings,100%,1.3
+Dr. Ron Pieper,4.6,Engineering,10 ratings,75%,2.7
+Tanya Brown,1.4,Biology,5 ratings,20%,2
+Tariq Masood,1.0,Engineering,1 ratings,0%,4
+Sara Rumbelow,2.4,Biology,33 ratings,34%,4.2
+Elizabeth Nesuda,4.0,Business,2 ratings,100%,3.5
+Ana Barnson,1.0,Psychology,1 ratings,0%,4
+Tammy Cowart,4.5,Business,53 ratings,67%,2.9
+Catherine Martini,2.1,Biology,18 ratings,28%,3.8
+Dijana Armstrong,3.4,Mathematics,10 ratings,70%,3
+Carol Roge,4.3,Business,9 ratings,100%,2.6
+Sai Katuri,5.0,Accounting,5 ratings,100%,1.6
+Sara McCaslin,3.1,Computer Science,14 ratings,50%,2.6
+Timothy Nix,2.3,Computer Science,6 ratings,34%,3.7
+Yi Li,4.0,Computer Science,3 ratings,67%,4
+Staci Zolkolski,3.9,Education,9 ratings,67%,3.4
+Hamedreza ardebili,5.0,Engineering,5 ratings,100%,2.4
+Tahsin Khajah,2.7,Engineering,3 ratings,67%,4.7
+Andrew Robbins,3.0,Engineering,2 ratings,50%,3
+Susan Doty,3.7,Economics,92 ratings,69%,3.9
+Stephen Graves,2.6,Mathematics,48 ratings,44%,4.5
+Veronda Willis,3.0,Accounting,39 ratings,56%,4.6
+Jason DiStefano,2.8,Chemistry,12 ratings,42%,3.2
+Amy Clem,4.6,Business,29 ratings,87%,2.8
+Lauren Johnson,3.9,Chemistry,21 ratings,67%,3.6
+Brent  Bill,2.8,Biology,19 ratings,50%,3.5
+Elizabeth Sills,3.9,Geography,9 ratings,50%,2.2
+Wei-Chin Ho,4.4,Biology,8 ratings,88%,2.3
+Sara Esfahani,3.0,Computer Science,3 ratings,67%,3.3
+David Chung,5.0,Business,1 ratings,100%,1
+Wesley  Wilson,5.0,Business,1 ratings,100%,3
+Joshua Banta,4.6,Biology,57 ratings,91%,2.2
+Christy Graves,2.5,Mathematics,29 ratings,34%,4.1
+Regan (jon) Beckham,2.8,Mathematics,22 ratings,30%,4
+Ashley Dalby,4.9,Health Science,17 ratings,100%,2.2
+Scott Spier,4.5,Health Science,8 ratings,100%,2.8
+Madhura Maiya,3.4,Health Science,7 ratings,58%,1.7
+Cynthia  Grant,1.0,Nursing,4 ratings,0%,4.8
+Marsha Williams,3.7,Biology,3 ratings,100%,3.3
+John Sloan,1.8,Health Science,31 ratings,0%,3.9
+Richard Batman,3.9,Physics,29 ratings,72%,2.8
+Arun Kulkarni,3.0,Computer Science,26 ratings,64%,2.7
+Cheryl Cooper,2.3,Health Science,14 ratings,30%,3.5
+Daniel Morris,3.6,Computer Science,14 ratings,58%,2.4
+Natalia Menkina-Snider,5.0,English,30 ratings,100%,2.1
+Yonjoo Cho,2.7,Business,12 ratings,42%,4.8
+Jon Seal,2.6,Biology,11 ratings,37%,3.6
+Fara Meza,3.4,Mathematics,33 ratings,58%,2.5
+Alwathiqbellah Ibrahim,2.6,Engineering,8 ratings,38%,3.3
+Wingyan Chung,1.7,Computer Science,6 ratings,20%,4.3
+Melissa Salgado,4.5,Political Science,6 ratings,84%,1.5
+Amy Hagan,4.4,Psychology,5 ratings,80%,2.6
+Karen Buckland,5.0,English,4 ratings,100%,1.3
+Lauren Kirby,3.0,Psychology,23 ratings,53%,3.7
+Terry Britt,3.1,Communication,7 ratings,43%,1.6
+Jeff Isom,5.0,Geography,4 ratings,100%,1.3
+June Oh,1.0,English,1 ratings,0%,5
+J. Torey Nalbone,3.6,Engineering,11 ratings,50%,2.8
+Fredricka Brown,2.8,Engineering,9 ratings,60%,4.2
+David Beams,4.1,Engineering,8 ratings,100%,4.1
+Muthukrishnan Sathyamoorthy,4.1,Engineering,7 ratings,100%,3.6
+Dustin Patterson,4.4,Chemistry,15 ratings,100%,3.6
+Robert Sterken,4.4,Political Science,130 ratings,91%,2.3
+Kara Jones,3.3,Nursing,5 ratings,67%,2.8
+Fletcher Njororai,1.3,Health Science,42 ratings,4%,4.4
+Ramona Grad,3.0,Psychology,5 ratings,40%,4
+Respress Brandon,1.0,Nursing,1 ratings,0%,5
+Jill Campbell,4.9,Health Science,13 ratings,100%,1.5
+Yvonne Ralph,1.7,Psychology,10 ratings,20%,2.2
+Christopher King,0.0,Ethnic Studies,0 ratings,N/A,0
+Jason Smee,4.2,Chemistry,53 ratings,84%,3.1
+Maddox Dotson,4.7,History,26 ratings,93%,1.8
+Kaia Magnusen,4.0,Art History,5 ratings,100%,2.4
+David Marks,4.6,Accounting,11 ratings,91%,3.7
+Gayathri Kambhampati,2.6,Mathematics,66 ratings,35%,4.3
+Kristen Jackson,4.9,English,16 ratings,100%,1.8
+Gigi Delk,4.5,Computer Science,27 ratings,91%,1.8
+Anita Brown,4.7,Communication,16 ratings,94%,2.4
+Brandy Meadows,3.3,Management,12 ratings,75%,2.5
+Ann Campbell,3.1,Nursing,11 ratings,46%,4.2
+Jerome Lewis,3.0,Chemistry,8 ratings,50%,3
+Jalisha Wesley,3.9,Nursing,7 ratings,72%,3.6
+Mr. Roy  Martinez,5.0,Management,1 ratings,100%,1
 Amir Mirmiran,5.0,Engineering,1 ratings,100%,2
-Maddox Dotson,4.7,History,25 ratings,92%,1.8
-Cynthia  Grant,1.0,Nursing,1 ratings,0%,5
 Pamela Delgado,5.0,Mathematics,1 ratings,100%,5
 Laura Boyd,4.4,Chemistry,60 ratings,92%,3
-Sara Rumbelow,2.5,Biology,30 ratings,37%,4.1
+Kristie Allen,4.6,Psychology,13 ratings,100%,2.4
+Priscilla Gilpin,4.8,Education,19 ratings,100%,1.6
+Nicole Hicks,1.4,Writing,16 ratings,7%,4.8
+Deborah Koslover,3.1,Mathematics,27 ratings,53%,3.6
+Dr. Premananda Indic,4.8,Engineering,8 ratings,100%,2.4
+Catherine Ross,3.8,English,59 ratings,65%,3.3
+Mark Sidey,3.0,English,17 ratings,59%,3.2
+Rachel Bloser,4.4,Psychology,7 ratings,86%,2.3
+Lorri Allen,2.4,Communication,7 ratings,29%,2.7
+Tara Propper,4.3,English,13 ratings,85%,2.9
+Wycliffe Njororai,2.3,Health Science,7 ratings,29%,3
+Audrey Scott,1.0,Art History,5 ratings,0%,3.2
+Griffin Nelson,4.4,Philosophy,5 ratings,80%,3
+Amentahru Wahlrab,3.5,Political Science,21 ratings,67%,3.1
+Traci Mayo,4.3,Mathematics,9 ratings,89%,3.7
+Letha Robertson,3.0,Art History,5 ratings,0%,4.6
+Prabha Sundaravadivel,4.5,Engineering,4 ratings,75%,3.8
+Jim Cater,2.7,Management,11 ratings,55%,3.3
+Timothy Lowe,3.5,Health Science,2 ratings,0%,2
+Jordan Beaver,4.4,Chemistry,9 ratings,78%,3.7
+Amy Huff,3.0,Nursing,3 ratings,67%,3.3
+Madeline Dawsey,4.2,Mathematics,18 ratings,78%,3.6
+Emily Standridge,3.2,English,31 ratings,62%,3
+Amy Roberts,5.0,Nursing,1 ratings,100%,5
+David Alger,5.0,Computer Science,16 ratings,100%,1.9
+Anjali Prati,4.0,Health Science,4 ratings,75%,4
+Nary Subramanian,2.3,Computer Science,27 ratings,37%,4.4
+Danny Mogle,4.1,Communication,8 ratings,75%,2.8
+David Milan,4.2,Mathematics,32 ratings,91%,3.3
+Yasser Mahgoub,5.0,Engineering,2 ratings,100%,3.5
+Rosemary Cooper,3.7,Technology,7 ratings,72%,2.4
+Rueben Cowan,3.1,Health Science,8 ratings,34%,3.9
+Nathan Smith,4.2,Mathematics,18 ratings,100%,3
+Shariful Huq,3.3,Engineering,6 ratings,67%,3.7
+Joe Provencher,5.0,Communication,1 ratings,100%,1
+Fatemeh Kalantari,1.0,Engineering,1 ratings,0%,4
+Alison Cope,1.0,English,1 ratings,0%,4
+Woohyoung Jeon,3.3,Science,3 ratings,67%,4
+Stephen Rainwater,3.8,Computer Science,23 ratings,43%,3.7
+Sagnik Dakshit,3.0,Computer Science,1 ratings,0%,4
+Marwan Al-Shammari,4.7,Management,29 ratings,90%,3.1
+Katie Anders,2.9,Mathematics,29 ratings,45%,4.1
+Kenneth Bryant,4.4,Political Science,20 ratings,85%,2.7
+Mildred Blowen,1.7,Business,19 ratings,0%,3.1
+Matthew Stith,4.9,History,58 ratings,98%,2.6
+Hannah Gean,5.0,Nursing,1 ratings,100%,3
+Vivek Pandey,3.5,Business,40 ratings,57%,3.7
+Maria Ogburn,5.0,Music,1 ratings,100%,1
+Jennifer Reynolds,4.7,Accounting,45 ratings,95%,3
+Autumn Ladd,2.0,Nursing,5 ratings,0%,3.6
+Theodore Crawford,5.0,Philosophy,3 ratings,100%,1.3
+Carla Biondillo,4.0,Nursing,3 ratings,67%,3.3
+Mandy Link,5.0,History,9 ratings,100%,3
+David Scott,3.9,Criminal Justice,8 ratings,100%,3.3
+Brandon  Bretl,5.0,Education,2 ratings,100%,1.5
+Ceselie Tobin,5.0,Biology,2 ratings,100%,1.5
+Mary Linehan,4.2,History,88 ratings,71%,3.2
+D. Crumpler,3.4,Nursing,8 ratings,25%,3.4
+Dee Ann Crabtree,3.5,Nursing,2 ratings,50%,3
+Amy Roberson-Hayes,4.9,Psychology,14 ratings,100%,2.9
+Jack Grisham,1.0,Mathematics,2 ratings,0%,4.5
+Vijayalakshmi Saravanan,0.0,Engineering,0 ratings,N/A,0
+Gregory Bock,4.5,Philosophy,13 ratings,93%,2.9
+Regan Beckham,2.5,Mathematics,6 ratings,40%,4.2
+James Newsom,3.6,History,160 ratings,45%,3.7
+Abdullahel Bari,2.5,Management,16 ratings,25%,2.6
+Mayzan Isied,5.0,Engineering,1 ratings,100%,3
+John Cater,2.4,Management,10 ratings,50%,3.7
+Gail Johnson,3.5,Freshman Seminar,14 ratings,67%,2.1
+Soren Maloney,3.6,Engineering,7 ratings,58%,3.6
+Meryem Saygili,2.4,Economics,5 ratings,20%,4.6
+Kassie Archer,3.4,Mathematics,19 ratings,50%,3.4
+Kimmy Nimon,1.5,Business,4 ratings,25%,4.5
+Laura Lamb Owens,3.2,Psychology,70 ratings,33%,3.1
+Tom Roberts,2.0,Computer Science,4 ratings,0%,1.3
+Ola Al-Shalash,2.0,Engineering,21 ratings,34%,4.3
+Arce Esquivel,1.4,Health Science,7 ratings,0%,4.6
+Melinda Hermanns,5.0,Nursing,5 ratings,100%,2.4
+Marilyn Young,3.5,Business,55 ratings,46%,2.2
+Vijalakshmi Saravanan,1.0,Engineering,1 ratings,0%,5
+Marcus Stadelmann,4.7,Political Science,47 ratings,100%,2.4
+Michael Ward,4.3,Not Specified,23 ratings,100%,1.5
+Marco Castaneda,4.5,Economics,10 ratings,84%,2.7
+Nancy Bailey,4.2,Mathematics,57 ratings,92%,2.5
+Chad Bogosian,2.7,Philosophy,3 ratings,34%,3.7
+Ryan Shartau,5.0,Biology,1 ratings,100%,1
+Hwan Shin,2.4,Finance,52 ratings,35%,3.7
+Richard Helfers,3.7,Criminal Justice,9 ratings,0%,3.2
+Danielle Bailey,1.8,Criminal Justice,4 ratings,0%,4
+Himanshu Singh,2.2,Mathematics,9 ratings,45%,3.4
+Noah Lebowitz-Lockard,3.0,Mathematics,5 ratings,60%,3
+Amy  Whittington,5.0,Education,1 ratings,100%,4
+Timothy Morgan,4.6,Management,53 ratings,91%,2.9
+Matthew Kelly,4.6,English,14 ratings,93%,2.7
+Ali Azghani,2.5,Biology,30 ratings,17%,4
+Diala Bani Mustafa,3.3,Engineering,4 ratings,100%,2
+Rene Hernandez,3.6,Psychology,8 ratings,86%,2.3
+Kevin James,4.1,Marketing,9 ratings,89%,2.8
+Stacey Noble,5.0,Education,1 ratings,100%,2
+Krist Swimberghe,4.9,Marketing,8 ratings,100%,2.5
+Janice Miles,5.0,Health Science,1 ratings,100%,3
+Rajat Gupta,5.0,Mathematics,1 ratings,100%,4
+Christine Casey,2.0,Chemistry,1 ratings,0%,4
+Dennis Combs,4.1,Psychology,10 ratings,50%,2.6
+Justin Hunt,1.0,Biology,1 ratings,0%,3
+Dennis Cali,3.1,Journalism,11 ratings,40%,4.2
+Dr. Mukul Shirvaikar,3.5,Engineering,5 ratings,34%,3
+Junghwa Hong,4.8,Marketing,4 ratings,100%,2.5
+Eric Lopez,4.2,Political Science,52 ratings,77%,3.1
+Geoffrey Willbanks,3.0,Political Science,6 ratings,50%,1.5
+Mary Fischer,2.9,Accounting,19 ratings,60%,3.2
+Roger Lirely,4.4,Accounting,5 ratings,100%,3
+James Lynn,1.0,Mathematics,1 ratings,0%,3
+Eric Stocks,4.6,Psychology,31 ratings,100%,2.7
+Dr Dennis Jones,1.0,Engineering,2 ratings,0%,4
+Catherine Hanratty,5.0,Anthropology,2 ratings,100%,3
+Wendelyn Risher,2.3,Business,3 ratings,34%,3
+Shaun Black,2.7,Chemistry,31 ratings,40%,3.9
+Vanessa Joyner,3.3,Communication,3 ratings,67%,1.3
+Nicholas Bergan,3.0,Economics,1 ratings,100%,3
+Matthew Vechione,5.0,Engineering,7 ratings,100%,3.3
+Natalia Menkina,4.6,English,8 ratings,100%,1.8
+Frank Dykes,4.9,Education,7 ratings,100%,1.6
+Gina Doepker,5.0,Education,3 ratings,100%,3
+Patricia  Stout,1.0,Communication,1 ratings,0%,5
+Catherine Clary,4.0,Education,1 ratings,100%,3
+Erik Gustafson,5.0,Communication,2 ratings,100%,2
+Alexander Mendoza,3.9,History,40 ratings,50%,3.3
+Ahmed Abdelal,3.3,Health Science,14 ratings,65%,4.5
+Brent Beal,3.2,Management,8 ratings,60%,4.1
+Christopher Shaw,4.8,Computer Science,5 ratings,100%,1.4
+Gloria Duke,2.5,Medicine,4 ratings,25%,4
+Randy Back,3.0,Physics,33 ratings,30%,3.7
+Jared Dickson,4.2,Biology,5 ratings,80%,2.6
+Liseth Hubbard,5.0,Communication,1 ratings,100%,3
+Christy Gipson,1.5,Nursing,2 ratings,0%,4
+Elizabeth Lisot,4.0,Art History,10 ratings,75%,3.3
+Ann Beebe,4.4,English,112 ratings,88%,4
+Joanna Neel,4.8,Education,10 ratings,100%,2.3
+Yanira Oliveras Ortiz,4.3,Education,9 ratings,89%,3.8
+Barbara Wooldridge,3.1,Marketing,32 ratings,8%,2.9
+Larry Carter,4.0,Political Science,67 ratings,67%,2
+Mark Owens,2.7,Political Science,14 ratings,40%,3.7
+Michael Gangone,4.5,Engineering,6 ratings,80%,2.7
+Aws Al-Shalash,1.8,Engineering,4 ratings,25%,4.8
+Rafe Biswas,3.3,Engineering,12 ratings,34%,3.8
+Hussain Rizvi,4.5,Engineering,4 ratings,75%,3.8
+Anthony Back,2.5,Physics,2 ratings,50%,4.5
+Yvonne Atkins,5.0,Education,3 ratings,100%,1.3
+Jenny Rashall,5.0,Geology,2 ratings,100%,2.5
+John Placyk,4.3,Biology,11 ratings,100%,3.2
+Rebecca Williams,4.8,Nursing,4 ratings,100%,2.8
+Sarah Cowan,5.0,Health Science,6 ratings,84%,2.5
+Greg Utley,4.9,Languages,19 ratings,100%,2.2
+Pierre-Luc Paquet,3.0,Languages,5 ratings,40%,4.4
+Riqing Yu,4.4,Biology,11 ratings,82%,2.7
+Jennifer Wooldridge,5.0,Criminal Justice,1 ratings,100%,2
+Scott Lalonde,3.3,Mathematics,11 ratings,29%,3.7
+Gary  Hatcher,2.3,Film,3 ratings,50%,3.3
+Leonard Brown,3.7,Computer Science,21 ratings,58%,3.7
+Steven Goad,3.0,Accounting,2 ratings,50%,4
+Kristy Graves,1.0,Mathematics,1 ratings,0%,5
+Jennifer Bailey,1.0,Education,1 ratings,0%,5
+Courtney  Day,5.0,Nursing,1 ratings,100%,3
+Ven Gopalakrishna Remani,4.3,Business,9 ratings,100%,2.2
+Randy Leblanc,4.2,Political Science,35 ratings,75%,4.2
+Christy Grave,2.5,Mathematics,5 ratings,0%,4.8
+David Clay McIntyre,4.6,Nursing,5 ratings,80%,1.8
+Colin Snider,4.5,History,22 ratings,100%,3
+Stephen Bushardt,4.8,Management,116 ratings,97%,3.3
+Hoyoung Kim,4.6,Accounting,5 ratings,80%,3.6
+Vivek Pandey,3.0,Finance,3 ratings,0%,4.3
+Jeff Cervantez,4.0,Philosophy,3 ratings,100%,3.8
+Christopher Thomas,4.6,Education,5 ratings,80%,2.8
+Marsha Matthews,4.0,Communication,6 ratings,84%,4.2
+Trey  Yarbrough,5.0,Political Science,1 ratings,100%,2
+Paul Streufert,4.8,English,45 ratings,100%,3.1
+Mickie Koster,2.2,History,25 ratings,16%,3.6
+Lidong Wu,2.5,Computer Science,17 ratings,48%,3
+Tina Melamed,5.0,Communication,1 ratings,100%,3
+Katherine Milovich,3.3,English,7 ratings,43%,2.1
+Jonahs Kneitly,5.0,English,1 ratings,100%,3
+Greg Wang,2.5,Business,4 ratings,25%,3.5
+Bea Taylor,5.0,Education,1 ratings,100%,1
+Hilary Baltz,5.0,Communication,5 ratings,100%,2.4
+Muath Salim,4.0,Engineering,2 ratings,50%,1
+Jeremy McBain,1.3,Music,4 ratings,0%,4.5
+Nick Bennie,5.0,Psychology,2 ratings,100%,2.5
+William Geiger,1.4,Education,13 ratings,8%,3.9
+Yasemin Gunpinar,5.0,Education,1 ratings,100%,2
+Angela Shoffner,4.0,Health Science,1 ratings,100%,3
+Maximillian Patton,4.0,Literature,1 ratings,100%,3
+Myrna Vale,2.4,Languages,7 ratings,17%,4
+Joanna  Norman,5.0,Business,1 ratings,100%,3
+Dewane Hughes,3.8,Fine Arts,17 ratings,100%,3.8
+Lauren Thomas,4.0,Psychology,6 ratings,84%,3.2
+Anwesha Maitra,1.0,Psychology,1 ratings,0%,3
+Jennifer Belew,4.4,Chemistry,17 ratings,95%,2.9
+Katrin Kellner,3.8,Biology,6 ratings,80%,3
+Shih-Feng Chou,2.4,Engineering,5 ratings,40%,4.4
+Jerome Lewis,4.0,Science,1 ratings,100%,4
+Roger Sims Jr.,5.0,Business,2 ratings,100%,1.5
+Deronda Baughman,3.4,Communication,5 ratings,0%,3.4
+Rob Schumaker,3.1,Computer Science,9 ratings,43%,3.6
+Ronna Morrison,2.4,Health Science,8 ratings,0%,3.1
+Myrna Vale Medina,2.0,Languages,1 ratings,0%,2
+Clifford Bearden,3.7,Mathematics,12 ratings,67%,3.8
+Michael Barnett,4.1,Psychology,14 ratings,79%,3.6
+Dr. Troy Henson,1.0,Engineering,1 ratings,0%,1
+Samantha Estrada Aguilera,3.0,Psychology,2 ratings,50%,3.5
+Kerrie Clark,4.8,Technology,17 ratings,84%,2.1
+Dominick Fazarro,4.5,Technology,10 ratings,67%,1.7
+Robert Schumaker,2.0,Computer Science,9 ratings,12%,3.3
+Brian Opella,4.3,Nursing,15 ratings,80%,3.8
+Bethany Rudolph,5.0,Nursing,11 ratings,100%,4.1
+Sarah Sass,3.2,Psychology,6 ratings,100%,2.5
+Andres Garcia,4.7,Engineering,3 ratings,100%,3
+Ryleigh Smith,5.0,Nursing,4 ratings,100%,3.5
+Matthew Boulter,4.0,Philosophy,9 ratings,89%,1.9
+Anett Jessop,4.5,English,8 ratings,88%,2.9
+Luis Gautier,4.1,Economics,10 ratings,75%,3
+Eva Blight,1.0,Nursing,1 ratings,0%,5
+Delane Moehring,3.9,Communication,13 ratings,77%,3.3
+Paul Roberts,4.1,Technology,8 ratings,67%,2.3
+John Baker,4.0,Computer Science,2 ratings,100%,1.5
+Nur Cayirdag,4.0,Psychology,2 ratings,100%,2
+Jonathan Belew,2.8,Physics,4 ratings,25%,3.3
+Soo-Ah Park,1.5,Music,2 ratings,0%,4
+Cameron Rose,4.3,Music,10 ratings,100%,2.7
+Omar Castillo,4.6,Biology,5 ratings,100%,3
+Jaclyn Marsh,4.3,Communication,6 ratings,84%,1.5
+Khane Parsons,2.0,History,6 ratings,25%,3.5
+Althea Arnold,2.5,Engineering,2 ratings,100%,3
+David Hull,2.4,Computer Science,14 ratings,36%,3.2
+Jie Yang,4.3,Management,13 ratings,85%,2.5
+Kay Kyung-Ah Byun,3.1,Marketing,9 ratings,58%,2.9
+Elena Senchenkova,3.6,Biology,5 ratings,80%,2
+Chialing Hsieh,3.3,Finance,3 ratings,100%,1.3
+Julie Cotter,1.4,Nursing,5 ratings,20%,3
+Jordan Traber,2.0,Health Science,2 ratings,0%,2
+Hui WU,2.5,English,3 ratings,50%,4.3
+Angela Preston,4.0,Nursing,3 ratings,67%,3.3
+Jesse Wicks,1.0,Criminal Justice,2 ratings,0%,2
+Artur Mikitiuk,2.3,Computer Science,16 ratings,50%,4.3
+Heshium Lawrence,3.6,Technology,10 ratings,67%,2.7
+Chen WU,2.9,Finance,17 ratings,75%,2.8
+Ana Cuervo-Utley,2.6,Languages,11 ratings,50%,3.5
+Sandra Savage,4.0,Nursing,10 ratings,80%,3.7
+John English,1.7,Religion,3 ratings,0%,4.3
+Kelsey Dominy,4.0,Health Science,1 ratings,100%,4
+Ashlee Coleman,2.4,Psychology,16 ratings,36%,3.9
+Jeffery Lauman,3.5,Geology,10 ratings,50%,3.1
+Robert Stevens,1.9,Education,17 ratings,20%,2.8
+Mary Helen Fagan,3.1,Computer Science,34 ratings,25%,2.6
+Rachel Goodman,2.0,Nursing,1 ratings,0%,1
+Yayoi Jones,5.0,Health Science,2 ratings,100%,2
+Chastadee Chain,2.5,English,2 ratings,50%,4
+William Sorensen,2.8,Health Science,15 ratings,25%,3.1
+Robert Carpenter,5.0,Humanities,2 ratings,100%,3.5
+Belinda Deal,4.3,Nursing,8 ratings,100%,1.9
+Erica Campbell,5.0,Nursing,2 ratings,100%,1.5
+Mohammed Ali,5.0,Engineering,7 ratings,100%,2.7
+Ali Ghorshi,5.0,Engineering,1 ratings,100%,3
+Khristie Prince,5.0,Communication,1 ratings,100%,3
+Vanesha Nicholson,4.8,Engineering,32 ratings,94%,2.1
+Gus Gordon,2.0,Accounting,21 ratings,22%,4
+Gary Hatcher,4.3,Fine Arts,18 ratings,100%,1.7
+Laura Owens,2.5,Psychology,33 ratings,37%,4.1
+Amber wooten,5.0,Education,1 ratings,100%,4
+Jenna Moore,4.0,Psychology,1 ratings,100%,2
+Lee Johnson,5.0,Nursing,7 ratings,100%,3.7
+Vicki Nackos,1.0,Nursing,4 ratings,0%,4.3
+Scott Brown,4.3,Chemistry,3 ratings,100%,2
+Robert Roy,3.0,Mathematics,2 ratings,50%,2.5
+Reuben Cowan,3.5,Health Science,2 ratings,50%,3.5
+Natalie Starkey,4.0,Nursing,1 ratings,100%,4
+Albert Bruhn,3.2,Communication,6 ratings,50%,2.2
+Elnora King,5.0,Nursing,1 ratings,100%,1
+Akua Smith,1.0,Health Science,1 ratings,0%,3
+Gilbert Abel,1.0,Engineering,2 ratings,0%,2.5
+Hui James,2.7,Finance,7 ratings,58%,3.1
+Jill Tokumoto Isacson,1.0,Education,1 ratings,0%,4
+Chelsea Baranski,4.4,Art History,5 ratings,100%,1.6
+Jounsup Park,5.0,Engineering,1 ratings,100%,4
+Ben Fenton,4.3,Communication,3 ratings,100%,4
+Samantha Aguilera,3.0,Mathematics,2 ratings,50%,3.5
+Rosemary Barké,4.8,Psychology,15 ratings,100%,2.4
+Marina Astakhova,3.8,Management,17 ratings,65%,2.7
+Carolyn Tilghman,4.5,English,44 ratings,90%,2.8
+Justin Deaton,5.0,Philosophy,1 ratings,100%,3
+Jesse Lee Dobson,4.3,English,22 ratings,80%,1.9
+Lorri Lay,2.3,Mathematics,17 ratings,0%,3.6
+Lisa Campbell,5.0,Nursing,2 ratings,100%,2
+Danish Rehman,4.0,Mathematics,1 ratings,100%,2
+Kyle Gullings,5.0,Music,2 ratings,100%,3
+Sharon Deuby,1.0,Music,1 ratings,0%,4
+Jeff Emge,3.2,Music,41 ratings,50%,3.4
+Donald Simmons,4.5,Art History,2 ratings,100%,4
+Benjamin Tseng,5.0,Health Science,4 ratings,100%,3.5
+Jennifer Klein,4.2,Criminal Justice,5 ratings,100%,2.8
+Jimi Francis,1.7,Health Science,3 ratings,0%,3.3
+Scott Marzilli,5.0,Physical Education,7 ratings,100%,2.7
+Rose Guidry,4.9,Nursing,4 ratings,100%,2
+Sue Savage,5.0,Nursing,2 ratings,100%,3.5
+Rebecca Egdorf,3.3,Health Science,4 ratings,50%,2.3
+Emily Scheinfeld,4.3,Communication,13 ratings,85%,3.3
+Wesley Hickey,4.8,Education,309 ratings,100%,3.2
+Yasmin Gad,5.0,English,3 ratings,100%,2
+Yansy Perez,5.0,Mathematics,1 ratings,100%,4
+Matt Deaton,5.0,Philosophy,5 ratings,100%,2.4
+Kiera Wade,1.0,Communication,1 ratings,0%,4
+Tara Eaton,2.8,Health Science,19 ratings,0%,3.7
+Kay Pleasant,4.5,Computer Science,24 ratings,100%,2.6
+Sharon Cathcart,4.7,Business,9 ratings,80%,2.7
+Michael Wiggs,3.5,Health Science,2 ratings,50%,3.5
+Kaira Wade,1.0,Communication,2 ratings,0%,3
+Davor Jedlicka,2.1,Sociology,29 ratings,0%,3.4
+Terra Blakemore,1.6,English,8 ratings,0%,3.5
+Karl Witt,4.8,Psychology,2 ratings,100%,4
+Neil Gray,4.6,Chemistry,29 ratings,100%,3.2
+Kelley Snowden,3.5,Geography,11 ratings,0%,3.1
+Nicholas Fessler,5.0,Accounting,1 ratings,100%,4
+Ohood Alsmairat,1.0,Engineering,3 ratings,0%,4.7
+Joseph Boylan,3.5,Engineering,2 ratings,50%,5
+Rachel Head,3.5,Sociology,5 ratings,50%,3.4
+Traci Kenner,3.0,Law,3 ratings,34%,4.3
+Suzanne Pundt,3.7,Biology,64 ratings,45%,4.2
+Kristina Young,4.6,English,9 ratings,89%,3.4
+James Schwane,3.2,Health Science,10 ratings,0%,3.1
+Daniel Lee,5.0,Technology,2 ratings,100%,2
+Tommy Gilbreath,1.6,Business,8 ratings,13%,4
+Nick Fessler,3.9,Accounting,7 ratings,72%,3.3
+John Connolly,5.0,Technology,1 ratings,100%,2
+Betsy Rountree,2.3,Mathematics,4 ratings,25%,4.2
+Tyler Hall,1.8,Engineering,4 ratings,25%,3.5
+Shawn Hillhouse,4.5,Nursing,2 ratings,100%,4
+Carol Dyck,5.0,Nursing,1 ratings,100%,4
+Dennis Hurley,4.3,Political Science,30 ratings,100%,2
+Janell Fisher,4.7,Classics,3 ratings,100%,2.3
+Michael McGinnis,1.0,Engineering,1 ratings,0%,2
+Sheldon Davis,3.9,Mathematics,11 ratings,100%,2.8
+Elizabeth Cook,4.0,Health Science,1 ratings,100%,3
+Lauren Perry,4.7,Psychology,32 ratings,86%,1.4
+Brynn Brown,3.0,Business,3 ratings,34%,3
+Jason Mazingo,3.0,Law,3 ratings,67%,2.3
+Sam Carrell,2.0,Humanities,1 ratings,0%,4
+Sherry Jackson,3.0,Business,1 ratings,100%,3
+JJ Massey,5.0,Management,6 ratings,100%,2.8
+Abhidnya Ghuge,3.0,Art History,10 ratings,50%,2.5
+Paul Thompson,2.5,Criminal Justice,2 ratings,0%,2
+Danice Greer,4.8,Nursing,3 ratings,100%,2.7
+Leslie Voss,1.0,Accounting,3 ratings,0%,5
+Chantal Zuazu,3.6,Languages,14 ratings,100%,1.9
+Lauralee Meyer,5.0,Education,1 ratings,100%,1
+Marisela Stocks,5.0,Psychology,1 ratings,100%,1
+Lynn Summers,2.9,Nursing,5 ratings,25%,4.2
+Juliet Jones,5.0,Science,1 ratings,100%,2
+Courtney Cullison,4.0,Political Science,25 ratings,100%,3
+Lauren Leamer,5.0,Chemistry,3 ratings,100%,3
+Ronald Sherrod,3.5,Music,2 ratings,50%,2.5
+Sarah Roberts,4.5,Music,2 ratings,100%,4
+Nicholas Schaetz,4.7,Engineering,3 ratings,100%,3.7
+Scott Dillingham,4.5,Fine Arts,2 ratings,100%,1
+Lindsey-Kay Lauderdale,4.5,Mathematics,3 ratings,50%,3
+Shirl Donaldson,1.0,Technology,2 ratings,0%,4
+Alfonso Ippolito,4.5,Communication,24 ratings,100%,2.2
+David Criswell,4.0,Health Science,1 ratings,100%,4
+Gina Dudley,5.0,Nursing,1 ratings,100%,4
+David Paterno,5.0,Communication,2 ratings,100%,3.5
+Colby Craddock,5.0,Health Science,1 ratings,100%,1
+Matt Rich,4.8,Fine Arts,5 ratings,100%,3.6
+Donna Wise,1.0,Education,1 ratings,0%,4
+Brooke Kincade,1.0,Technology,1 ratings,0%,4
+Rebecca Mcelyea,2.7,Political Science,3 ratings,34%,1.7
+William Perkins,3.1,English,7 ratings,50%,4
+John Harris,3.5,English,28 ratings,72%,2.9
+Carol DeGrasse,5.0,English,1 ratings,100%,2
+Justin Velten,3.8,Communication,8 ratings,50%,2.8
+Neil Ford,2.4,Science,35 ratings,34%,4.3
+Hassan El-Kishky,4.3,Engineering,10 ratings,50%,2.5
+Larry Kraus,4.5,Education,10 ratings,100%,3.1
+Ann Gilley,5.0,Business,1 ratings,100%,2
+Shelly Marmion,3.3,Psychology,40 ratings,50%,3.5
+Andrew Schmitt,4.8,Psychology,9 ratings,100%,3.9
+Vance Vaughn,2.9,Education,3 ratings,0%,2
+Carol DeGrasse,5.0,International Studies,5 ratings,100%,3.6
+Charles Barke,2.2,Psychology,5 ratings,0%,3
+Gregory Utley,4.0,English,1 ratings,100%,1
+Lee Ann Harbison,4.2,Biology,41 ratings,0%,3.8
+Joshua Jones,3.4,Mathematics,45 ratings,0%,3.1
+Doug Vardeman,5.0,Biology,4 ratings,100%,3
+Tai Makubise,5.0,Mathematics,1 ratings,100%,2
+Jimmi Lafaitt,5.0,Nursing,1 ratings,100%,3
+Bethany Starks,5.0,Nursing,2 ratings,100%,3.5
+Melissa Dotson,3.8,History,35 ratings,67%,3.2
+Randall Moate,5.0,Psychology,2 ratings,100%,2.5
+Paul Shelton,4.0,Business,1 ratings,100%,3
+Katherine Strout,5.0,Nursing,1 ratings,100%,1
+Barbara McAlister,5.0,Nursing,2 ratings,100%,3
+John Lamb,3.3,Education,6 ratings,0%,3.8
+Jim Tarter,2.2,Business,17 ratings,0%,3.6
+Maura Purcell,5.0,Biology,2 ratings,100%,3
+Katherine Kapka,3.1,Accounting,21 ratings,50%,2.5
+Julia Norrell,4.5,Biology,2 ratings,100%,3.5
+Alexa Foster,2.0,Health Science,4 ratings,25%,1.8
+Andrea Ellinger,4.0,Business,2 ratings,50%,3
+Robert Butts,1.8,History,6 ratings,20%,4.3
+Sherry Avery,2.5,Management,5 ratings,0%,2.4
+Jennifer Jones,4.0,Education,4 ratings,100%,3.3
+Edward Tabri,4.7,History,37 ratings,100%,2.2
+Ruby Chick,5.0,Mathematics,3 ratings,100%,2.7
+Tanya Shtoyko,3.4,Chemistry,14 ratings,0%,3.4
+Philip Behnke,4.0,Management,1 ratings,100%,2
+Karen Sloan,3.6,English,27 ratings,50%,3.2
+Mary Anna Kidd,3.1,Journalism,5 ratings,100%,2.2
+Kris Kirst,1.5,Journalism,2 ratings,0%,2.5
+Anusha Papasani,4.4,Engineering,4 ratings,100%,2.8
+Luis Pereira,1.0,Engineering,1 ratings,0%,4
+Janey Dudley,5.0,Biology,1 ratings,100%,1
+syed Jafri,2.0,Engineering,3 ratings,34%,4.7
+Mark Lewis,4.2,Education,9 ratings,67%,2.2
+Jana Belzer,3.3,Business,5 ratings,0%,2.2
+Allison Helms,5.0,Chemistry,4 ratings,100%,2.8
+Afton Barber,3.4,Management,7 ratings,34%,3.6
+Mohammod Hafiz Rahman,1.5,Engineering,3 ratings,0%,4.7
+Melvin Robinson,5.0,Engineering,4 ratings,100%,4
+Helene Hakim,2.0,Nursing,3 ratings,0%,3
+Heather Sanders,1.0,Accounting,1 ratings,0%,5
+Vanessa Curry,3.0,Journalism,20 ratings,0%,3.9
+Christine McNichols,5.0,Psychology,1 ratings,100%,3
+Jessica Holm,5.0,Psychology,1 ratings,100%,1
+Julie Delello,3.0,Education,1 ratings,100%,3
+Kabir  Hossain,1.0,Engineering,3 ratings,0%,5
+James Clutter,1.0,Engineering,1 ratings,0%,3
+Leigh Ann Olejnik,4.3,English,3 ratings,100%,1.3
+Lethan Barnes,4.6,English,13 ratings,100%,3.5
+Bernadine Hansen,4.6,Education,7 ratings,100%,2.7
+Steve Krebbs,3.1,Philosophy,38 ratings,100%,4.2
+Barbara Hart,4.1,Criminal Justice,12 ratings,0%,3.8
+Jack Adams,4.3,Philosophy,3 ratings,100%,3
+Pam Lake,4.8,Nursing,2 ratings,100%,2
+Larrimy Brown,3.7,Biology,8 ratings,100%,3.2
+Theresa Steele,4.7,Nursing,3 ratings,100%,3
+Kenneth Wink,3.3,Political Science,24 ratings,N/A,2.9
+Xiaoyu Jin,2.5,Engineering,1 ratings,N/A,3
+Patrick Saikin,3.4,History,6 ratings,N/A,2.5
+Bethany  Waits,4.4,Psychology,6 ratings,N/A,2.3
+Jose Hurtado,4.0,Engineering,1 ratings,N/A,4
+Bolaji Oloyede,2.5,Engineering,1 ratings,N/A,4
+Kim Hoang,2.8,Biology,2 ratings,N/A,2
+Alex San Pedro,5.0,Art History,1 ratings,N/A,5
+Timothy Roberts,4.1,Economics,13 ratings,N/A,3.3
+Ronald Livingston,4.2,Psychology,33 ratings,N/A,2.4
+Kevin Dilley,4.3,Communication,3 ratings,N/A,2.7
+Rauf Arif,4.8,Communication,3 ratings,N/A,1.7
+Cynthia Kent,4.5,Criminal Justice,2 ratings,N/A,4
+Judy Turman,2.1,English,10 ratings,N/A,3
+Mohommad Rahman,3.2,Engineering,3 ratings,N/A,3.3
+Colleen Smith,4.2,Psychology,9 ratings,N/A,2.6
+Luke Goebel,4.0,English,17 ratings,N/A,3.1
+Jennifer Jones,2.0,Chemistry,3 ratings,N/A,4.3
+Spencer Acadia,4.3,Psychology,2 ratings,N/A,2
+Jamie Cantrell,5.0,Biology,1 ratings,N/A,4
+Olga Fischer,3.5,Education,20 ratings,N/A,3.4
+Jana Rutherford,2.4,Marketing,7 ratings,N/A,3.9
+Mark Miller,5.0,Technology,13 ratings,N/A,2.6
+Ryan Gardner,3.8,Accounting,6 ratings,N/A,3.5
+Samuel Kaemmerling,1.3,Technology,2 ratings,N/A,4
+Dr. Michael Eidenmuller,4.0,Communication,35 ratings,N/A,3.6
+Rachel Bzostek,3.1,Political Science,11 ratings,N/A,2.9
+Shannon Kemp,3.5,Nursing,2 ratings,N/A,3.5
+Jerry Woolverton,4.5,Finance,2 ratings,N/A,2.5
+Toby  Breland,4.8,Health Science,3 ratings,N/A,1.3
+Jason Klein,4.3,Psychology,2 ratings,N/A,2
+Jacqueline Evans,3.7,Psychology,5 ratings,N/A,3.2
+Whitney King,3.5,Political Science,1 ratings,N/A,3
+Jonathan Miller,2.3,Philosophy,3 ratings,N/A,4
+Ashley Hall,2.0,Business,2 ratings,N/A,3.5
+John Clark,3.4,Criminal Justice,5 ratings,N/A,2.6
+Blake Bextine,4.4,Biology,12 ratings,N/A,3.1
+Kristen Stagg,4.7,Mathematics,3 ratings,N/A,1.3
+Will Grilliette,2.2,Mathematics,9 ratings,N/A,1.8
+Joan Andrews,5.0,Communication,4 ratings,N/A,1
+Ji-Yeon Lee,4.8,Psychology,2 ratings,N/A,2
+Chip Fischer,4.5,Education,14 ratings,N/A,1.7
+Chastadee Hill,4.0,English,3 ratings,N/A,2
+Susan Mills,4.0,Sociology,3 ratings,N/A,1
+Merrie Wright,4.1,Fine Arts,10 ratings,N/A,3
+Vicki Conway,5.0,Music,2 ratings,N/A,2.5
+Karen Grover,3.4,Nursing,4 ratings,N/A,3.8
+K.W. Wilson,2.7,Engineering,3 ratings,N/A,4
+Pat Gajda,3.6,History,28 ratings,N/A,3.3
+Guillermo Covarrubias,3.7,Economics,27 ratings,N/A,2.5
+Amber Lee,2.1,Mathematics,24 ratings,N/A,3.5
+Becky Sacrey,3.5,Nursing,9 ratings,N/A,3.8
+Jimmy Reese,4.0,Religion,1 ratings,N/A,1
+Meagan Field,1.3,Mathematics,2 ratings,N/A,5
+Wade Fish,4.9,Education,6 ratings,N/A,2.8
+Brandon Rose,4.1,English,10 ratings,N/A,4.1
+Randy Napier,3.8,Marketing,2 ratings,N/A,2
+Amy Johnson,4.9,Nursing,4 ratings,N/A,2.8
+Cliff Boucher,4.6,Biology,11 ratings,N/A,2.6
+DR. Matthews,4.4,Journalism,10 ratings,N/A,2.9
+Howard Baker,4.0,Political Science,2 ratings,N/A,2.5
+Cindy James,4.5,Nursing,1 ratings,N/A,3
+Greg Vikon,5.0,Communication,1 ratings,N/A,2
+James Daniel,4.0,English,3 ratings,N/A,3.7
+Pat Keeling,4.8,Nursing,3 ratings,N/A,2.3
+Wayne Cooper,2.3,Philosophy,2 ratings,N/A,2.5
+Mary Scarborough,4.2,Accounting,9 ratings,N/A,2.9
+Keith Willis,4.8,Computer Science,3 ratings,N/A,1
+James Koukl,3.0,Chemistry,13 ratings,N/A,3.6
+Katherine Pang,2.9,Criminal Justice,8 ratings,N/A,4.8
+Dave Weinstock,1.3,Journalism,5 ratings,N/A,4.2
+Charles Walts,4.5,Communication,3 ratings,N/A,3
+Henry Schreiber,2.7,Psychology,27 ratings,N/A,3
+Casey Mann,3.6,Mathematics,40 ratings,N/A,3.4
+Sarah Del Collo,4.2,English,33 ratings,N/A,3.7
+Vicent Falzone,2.9,History,15 ratings,N/A,3
+Ke Zhong,2.6,Accounting,15 ratings,N/A,4.2
+Kevin Shanahan,3.8,Marketing,14 ratings,N/A,2.8
+Saleh Jabr,3.8,English,9 ratings,N/A,2.8
+Joan Muller,2.6,English,5 ratings,N/A,3
+Larry Eugene Carter,5.0,Political Science,1 ratings,N/A,3
+Eugene Larry Carter,5.0,Political Science,1 ratings,N/A,1
+Gayle Ferrell,2.0,Education,1 ratings,N/A,4
+Kerri Keech,4.9,Marketing,7 ratings,N/A,1.7
+A.M. Shajaat Ali,3.1,Geography,28 ratings,N/A,2.6
+Dana Adams,4.4,English,47 ratings,N/A,2.1
+Michael Thrasher,3.5,Music,1 ratings,N/A,4
+Thomas Fernandez,2.8,Business,12 ratings,N/A,3.5
+Michael Bozeman,4.9,Criminal Justice,4 ratings,N/A,1.8
+Jason Stewart,4.8,Education,72 ratings,N/A,2.8
+Greg Viken,4.8,Communication,8 ratings,N/A,2.1
+Jim Pace,3.9,Fine Arts,8 ratings,N/A,4
+Wade Meade,4.4,History,5 ratings,N/A,2.6
+Jared Wait,3.9,History,8 ratings,N/A,2.3
+Terrance Ates,1.0,Health Science,1 ratings,N/A,5
+Amy Glenn,4.2,Economics,5 ratings,N/A,3.4
+Bridgette Sandhoff,4.0,Art History,1 ratings,N/A,4
+James Sanchez,4.1,English,4 ratings,N/A,2.8
+Susana Gomez-Vega,3.3,Biology,2 ratings,N/A,4.5
+Amy Berrier,3.0,English,2 ratings,N/A,3
+Lakshi Villavaryen,1.0,Mathematics,1 ratings,N/A,5
+Kristen Lormand,2.5,Business,5 ratings,N/A,3.2
+Anthony Emmel,4.0,History,1 ratings,N/A,4
+John Gill,3.4,Psychology,10 ratings,N/A,3.2
+Sohraab Soltani,4.0,Computer Science,1 ratings,N/A,3
+Tim Kane,3.4,Economics,30 ratings,N/A,4.4
+Landon Trent,4.7,History,9 ratings,N/A,2.7
+Holli Tennison,5.0,Mathematics,13 ratings,N/A,1.8
+Keith McCoy,2.5,Physical Education,4 ratings,N/A,4
+Gary Mears,3.8,Psychology,19 ratings,N/A,2.3
+Derik Gray,5.0,Communication,1 ratings,N/A,1
+Brian Taylor,4.4,Chemistry,81 ratings,N/A,3.4
+John Raulston,2.9,Political Science,9 ratings,N/A,3.4
+Roberto Mendoza,1.5,Mathematics,2 ratings,N/A,5
+Jill Blondin,4.5,Art History,31 ratings,N/A,3.3
+Jackie McVey,3.8,Nursing,3 ratings,N/A,3
+Michael Victor,2.7,Sociology,10 ratings,N/A,2.3
+Isaura Flores,3.4,Management,11 ratings,N/A,4.1
+Peter Rogers,3.6,Engineering,4 ratings,N/A,3
+Jennifer McCloud,4.0,Mathematics,23 ratings,N/A,3.1
+Nathanael O'Reilly,4.8,English,3 ratings,N/A,2.7
+David Jones,5.0,Computer Science,1 ratings,N/A,1
+Valerie Holcomb,2.2,Psychology,3 ratings,N/A,3
+Robert Lawson,2.3,Economics,4 ratings,N/A,5
+Noah Miles,4.2,English,5 ratings,N/A,3
+James D'Avignon,3.3,English,3 ratings,N/A,3.7
+Jeremy Stjohn,4.0,Management,3 ratings,N/A,3.3
+Jennifer Pooler,3.0,English,1 ratings,N/A,3
+Robert McClure,2.7,Psychology,20 ratings,N/A,3.8
+Sumit Ghosh,2.5,Computer Science,5 ratings,N/A,3.8
+Guclu Atinc,4.5,Management,1 ratings,N/A,2
+Roberto Pichardo,2.0,Mathematics,1 ratings,N/A,4
+Jennifer Courtney,4.3,English,2 ratings,N/A,2.5
+Joyce Ballard,2.4,Health Science,15 ratings,N/A,4.2
+Alexis Serio,3.6,Fine Arts,25 ratings,N/A,3.3
+Donna Packer,3.5,Education,3 ratings,N/A,3
+Ronald Welch,4.8,Engineering,2 ratings,N/A,3
+Clifton Farnsworth,4.5,Engineering,1 ratings,N/A,2
+William Bruce,1.0,Education,1 ratings,N/A,1
+Travis Russell,1.5,Mathematics,1 ratings,N/A,2
+Keith Durrett,4.0,Management,5 ratings,N/A,2.6
+Genina Barna,3.6,Communication,7 ratings,N/A,3
+Jon Rowan,5.0,Business,2 ratings,N/A,1.5
+John Rowan,3.5,Business,1 ratings,N/A,1
+Mark Washburne,3.0,Accounting,25 ratings,N/A,3.4
+Victor Scherb,4.0,English,32 ratings,N/A,2.8
+Amanda Davis,4.1,Communication,7 ratings,N/A,3.7
+Troy Anderson,4.3,Biology,3 ratings,N/A,2.7
+Bambi Bailey,1.0,Education,1 ratings,N/A,5
+Karen Torres,2.2,Nursing,5 ratings,N/A,3.2
+Dr. McClaugherty,2.9,Science,36 ratings,N/A,4.5
+Choong-Nam Kang,4.3,Political Science,2 ratings,N/A,3.5
+Christy Gravees,4.5,Mathematics,1 ratings,N/A,4
+James Harbaugh,4.0,Technology,4 ratings,N/A,2.5
+Stephen Daniels,4.0,History,38 ratings,N/A,2.8
+Hallie Wallace,3.3,English,5 ratings,N/A,3.6
+Alicia Barrett,4.8,Chemistry,9 ratings,N/A,1.7
+Brenda Tuberville,3.8,English,22 ratings,N/A,2.8
+Diane Collum,4.4,English,5 ratings,N/A,1.8
+Wei Fan,5.0,Engineering,1 ratings,N/A,2
+Christina Ragain,3.1,Chemistry,14 ratings,N/A,3.5
+Tracy Parks,4.8,Technology,2 ratings,N/A,3.5
+Ron Withers,1.0,Technology,1 ratings,N/A,1
+Daniel Murphree,4.4,History,27 ratings,N/A,3.6
+Jane Saber,4.2,Marketing,21 ratings,N/A,2
+Oris Odom,2.3,Business,19 ratings,N/A,3.7
+Miranda Newman,3.2,Fine Arts,3 ratings,N/A,1.7
+Bobby Crone,4.8,Management,8 ratings,N/A,1.5
+Glenda Barron,4.5,Education,4 ratings,N/A,1.8
+Judy King,3.0,Nursing,2 ratings,N/A,3.5
