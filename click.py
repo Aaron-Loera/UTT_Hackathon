@@ -1,10 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
 from bs4 import BeautifulSoup
 import csv
 import re
-import requests 
 import time
 
 
