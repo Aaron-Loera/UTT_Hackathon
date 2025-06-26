@@ -26,7 +26,7 @@ while True:
         time.sleep(5)
     except Exception as e:
         # If no "Load More" button is found break out of the loop
-        print("No more elements to load.")
+        print("No more elements to load. -- stops web driver")
         break
 
 # Get the updated page content after all products are loaded
@@ -43,7 +43,7 @@ while True:
 
     cards = soup.find_all("div", class_="TeacherCard__InfoRatingWrapper-syjs0d-3 kAxNBg")
     if not cards:
-        print("No cards found, ending loop.")
+        print("No cards found, ending loop. -- stops data collection")
         break  # End loop if no cards
 
     page_data = []
@@ -75,7 +75,7 @@ while True:
     if page_data:
         first_name = page_data[0][0]
         if first_name in seen_names:
-            print("Duplicate data detected, ending loop.")
+            print("Duplicate data detected, ending loop. -- stops data collection")
             break
 
     for entry in page_data:
