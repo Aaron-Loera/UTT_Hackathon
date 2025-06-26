@@ -12,10 +12,10 @@ options = webdriver.FirefoxOptions()
 options.add_argument("detach")
 driver = webdriver.Firefox(options = options)
 
-
 #send GET to page
 driver.get(url)
 
+#Click the load more button to load all html
 while True:
     try:
         # Find the "Load more" button by its Class name and click it
@@ -29,7 +29,7 @@ while True:
         print("No more elements to load. -- stops web driver")
         break
 
-# Get the updated page content after all products are loaded
+# Get the updated page content after all data is loaded
 html_content = driver.page_source
 
 driver.quit()
@@ -39,6 +39,7 @@ seen_names = set()
 page_num = 1
 all_data = []
 
+#Parse html from all proffesors 
 while True:
 
     cards = soup.find_all("div", class_="TeacherCard__InfoRatingWrapper-syjs0d-3 kAxNBg")
