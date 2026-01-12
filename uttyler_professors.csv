@@ -1,9 +1,9 @@
-Name,Rating,Department,Num Ratings,Retake %,Difficulty
-Richard Batman,4.0,Physics,28 ratings,75%,2.7
-Jie Zeng,5.0,Mathematics,4 ratings,100%,2.5
-Amir Mirmiran,5.0,Engineering,1 ratings,100%,2
-Maddox Dotson,4.7,History,25 ratings,92%,1.8
-Cynthia  Grant,1.0,Nursing,1 ratings,0%,5
-Pamela Delgado,5.0,Mathematics,1 ratings,100%,5
-Laura Boyd,4.4,Chemistry,60 ratings,92%,3
-Sara Rumbelow,2.5,Biology,30 ratings,37%,4.1
+Name          , Rating, Department , Num Ratings, Retake %, Difficulty
+Richard Batman,    4.0, Physics    , 28 ratings , 75%     ,        2.7
+Jie Zeng      ,    5.0, Mathematics, 4 ratings  , 100%    ,        2.5
+Amir Mirmiran ,    5.0, Engineering, 1 ratings  , 100%    ,        2
+Maddox Dotson ,    4.7, History    , 25 ratings , 92%     ,        1.8
+Cynthia  Grant,    1.0, Nursing    , 1 ratings  , 0%      ,        5
+Pamela Delgado,    5.0, Mathematics, 1 ratings  , 100%    ,        5
+Laura Boyd    ,    4.4, Chemistry  , 60 ratings , 92%     ,        3
+Sara Rumbelow ,    2.5, Biology    , 30 ratings , 37%     ,        4.1
